@@ -6,8 +6,9 @@
 
 <p align="center">
 En este repositorio publico los ejercicios que he resuelto del concurso <a href="https://programame.com/">Programame</a> (que principalmente están también en <a href="https://aceptaelreto.com/">Acepta El Reto</a>.)
-  A parte añado también ejercicios que uso de práctica para mejorar las habilidades.
   <br>
+  A parte añado también ejercicios que uso de práctica para mejorar las habilidades.
+  <br><br>
   <b>¡Cualquier ayuda a mejorar codigo es bien recibida!</b>
 </p>
 
