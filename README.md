@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://programame.com/files/logo.png" alt="Logotipo Programame" style="width: 50%; height: auto; filter: drop-shadow(0 0 0.75rem crimson);">
+  <img src="https://programame.com/files/logo.png" alt="Logotipo Programame" style="width: 50%; height: auto;">
 </p>
 
 <h1 align="center">Ejercicios Programame / AceptaElReto</h1>
